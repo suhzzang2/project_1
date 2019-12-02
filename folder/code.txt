@@ -1,3 +1,4 @@
+```c
 #include <stdio.h>
 int main(void)
 {
@@ -5,3 +6,4 @@ int main(void)
 	printf("환영합니다.");
 	return 0;
 }
+```
